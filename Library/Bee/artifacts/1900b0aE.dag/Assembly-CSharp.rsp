@@ -354,6 +354,7 @@
 "Assets/GameMain/Scripts/Base/GameEntry.cs"
 "Assets/GameMain/Scripts/Base/GameEntry.Custom.cs"
 "Assets/GameMain/Scripts/BuiltinData/LoadingComponent.cs"
+"Assets/GameMain/Scripts/NewBehaviourScript.cs"
 "Assets/GameMain/Scripts/Procedure/ProcedureLoadLua.cs"
 "Assets/GameMain/Scripts/Procedure/ProcedureLuanch.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
